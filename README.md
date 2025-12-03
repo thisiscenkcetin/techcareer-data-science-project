@@ -3,7 +3,7 @@
 
 Proje: e-Bilet Satış Analizi
 
-Kısa: `bilet_satislar.csv` ile EDA, önişleme ve basit satış tahmini 
+`bilet_satislar.csv` ile EDA, önişleme ve basit satış tahmini 
 
 Paketler
 
@@ -38,6 +38,6 @@ Demo
 
 
 İletişim
-
+#
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.cenkcetin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/thisiscenkcetin)
