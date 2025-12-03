@@ -35,9 +35,9 @@ python -m streamlit run src\app.py
 
 Demo
 
-![Ekran Görüntüsü 1](demo/Screen1.PNG)
-
 ![Ekran Görüntüsü 2](demo/Screen2.PNG)
+
+![Ekran Görüntüsü 1](demo/Screen1.PNG)
 
 ![Ekran Görüntüsü 3](demo/Screen3.PNG)
 
